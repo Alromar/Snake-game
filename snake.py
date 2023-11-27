@@ -1,4 +1,6 @@
-# tutorial url: https://www.patreon.com/posts/45998588
+# tutorial url: https://www.youtube.com/watch?v=bzWzlXiavXs
+
+# source code url:https://www.patreon.com/posts/45998588
 
 # import packages
 import turtle
